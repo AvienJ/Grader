@@ -1,5 +1,5 @@
 # NAME: Clear Module
-# FILE: __init__.py(DIR: .\)
+# FILE: clear.py(DIR: .\)
 
 # DESCRIPTION: "A module that clear the screen"
 # CREDITS: Avien Jones(GITHUB: AvienJ)
