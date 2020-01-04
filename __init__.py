@@ -1,5 +1,5 @@
 # NAME: Clear Module
-# FILE: clear.py(DIR: .\)
+# FILE: __init__.py(DIR: .\)
 
 # DESCRIPTION: "A module that clear the screen"
 # CREDITS: Avien Jones(GITHUB: AvienJ)
@@ -14,5 +14,5 @@ def clear():
   os_name = platform.system()
   if os_name == "Windows":
     os.system("cls")
-  if os_name == "Linux":
+  else:
     os.system("clear")
